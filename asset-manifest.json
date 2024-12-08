@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce-app/static/css/main.2bc95eb0.css",
-    "main.js": "/ecommerce-app/static/js/main.912ae041.js",
+    "main.js": "/ecommerce-app/static/js/main.7bde8e98.js",
     "static/media/banner-2.png": "/ecommerce-app/static/media/banner-2.da98bf0e64a5fa196033.png",
     "static/media/banner-0.png": "/ecommerce-app/static/media/banner-0.c2736fb243a5f85dd5bf.png",
     "static/media/background.png": "/ecommerce-app/static/media/background.05705542d7ea3ca5b71f.png",
@@ -9,10 +9,10 @@
     "static/media/nillkin-case-1.jpg": "/ecommerce-app/static/media/nillkin-case-1.60dec4fb7de719b33e51.jpg",
     "index.html": "/ecommerce-app/index.html",
     "main.2bc95eb0.css.map": "/ecommerce-app/static/css/main.2bc95eb0.css.map",
-    "main.912ae041.js.map": "/ecommerce-app/static/js/main.912ae041.js.map"
+    "main.7bde8e98.js.map": "/ecommerce-app/static/js/main.7bde8e98.js.map"
   },
   "entrypoints": [
     "static/css/main.2bc95eb0.css",
-    "static/js/main.912ae041.js"
+    "static/js/main.7bde8e98.js"
   ]
 }
